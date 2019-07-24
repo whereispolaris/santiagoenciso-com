@@ -12,3 +12,9 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+#logo-img {
+  margin-top: 14px;
+  width: 100px;
+}
+
