@@ -22,3 +22,11 @@ a {
   color: black;
   font-weight: 500;
 }
+
+h1 {
+    background: linear-gradient(104deg, #332992 10%, #40A9F4 40% );
+    /*This is the coolest styling trick ever*/
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
