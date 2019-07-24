@@ -29,4 +29,13 @@ h1 {
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
+    padding: 12px;
+}
+
+h2 {
+    background: linear-gradient(104deg, #332992 0%, #40A9F4 20% );
+    /*This is the coolest styling trick ever*/
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
