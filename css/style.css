@@ -55,3 +55,8 @@ i.icon-blue {
     color:#332992;
 }
 
+.graphic-title {
+  padding-bottom: 0;
+  margin-bottom: 0;
+  margin-top: 50px;
+}
