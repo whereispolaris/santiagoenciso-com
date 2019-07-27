@@ -13,9 +13,8 @@
 
 .social-logo {
   width: 40px;
-  display: inline;
   margin-top: 5px; 
-  margin-left: 5px;
+  margin-left: 5px; 
 }
 
 h1 {
@@ -24,10 +23,13 @@ h1 {
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    padding: 12px;
+    margin-bottom: 0;
+    padding-bottom: 15px; 
+    
 }
 
-h2 {
+h2,
+h3 {
     background: linear-gradient(104deg, #332992 0%, #40A9F4 20% );
     /*This is the coolest styling trick ever*/
     -webkit-background-clip: text;
@@ -38,6 +40,8 @@ h2 {
 #subheader {
   font-size: 20px;
   line-height: 40px;
+  padding-top: 0;
+  padding-left: 0;
 }
 
 a.deep-purple-text.text-darken-4 {
