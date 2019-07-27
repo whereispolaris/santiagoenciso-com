@@ -40,7 +40,7 @@ h3 {
     -webkit-text-fill-color: transparent;
 }
 
-#subheader {
+.subheader {
   font-size: 20px;
   line-height: 40px;
   padding-top: 0;
@@ -54,3 +54,4 @@ a.deep-purple-text.text-darken-4 {
 i.icon-blue {
     color:#332992;
 }
+
