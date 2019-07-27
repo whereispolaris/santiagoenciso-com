@@ -34,3 +34,12 @@ h2 {
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+#subheader {
+  font-size: 20px;
+  line-height: 40px;
+}
+
+a.deep-purple-text.text-darken-4 {
+    font-size: 20px;
+}
