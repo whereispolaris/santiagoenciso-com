@@ -107,4 +107,12 @@ i.icon-blue {
   .employer-img {
     display: none;
   }
+  .subheader {
+    font-size: 15px;
+    line-height: 25px;
+  }
+  #logo-img {
+    margin-top: 19px;
+    width: 70px;
+  }
  }
