@@ -76,3 +76,12 @@ i.icon-blue {
   color: #332992;
   font-weight: 500;
 }
+
+.collapsible {
+  box-shadow: none;
+  border: none;
+}
+
+.last-collapsible {
+  border: none;
+}

@@ -1,11 +1,7 @@
 
-document.addEventListener('DOMContentLoaded', function () {
-    var elems = document.querySelectorAll('.carousel');
-    var instances = M.Carousel.init(elems, options);
-});
-
-// Or with jQuery
-
 $(document).ready(function () {
+    // Graphic Design projects slideshow
     $('.carousel').carousel();
+    // Work Experience accordion section
+    $('.collapsible').collapsible();
 });
