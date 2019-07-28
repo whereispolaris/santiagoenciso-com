@@ -88,8 +88,17 @@ i.icon-blue {
 
 .collapsible-header {
   padding-top: 10px;
+  position: relative;
 }
 
 .last-collapsible {
   border: none;
+}
+
+
+.icon-style {
+  padding: 10px;
+  font-size: 20px;
+  position: absolute;
+  right: 10px;
 }
