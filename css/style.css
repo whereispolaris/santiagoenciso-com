@@ -102,3 +102,9 @@ i.icon-blue {
   position: absolute;
   right: 10px;
 }
+
+@media (max-width: 425px) { 
+  .employer-img {
+    display: none;
+  }
+ }
