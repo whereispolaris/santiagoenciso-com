@@ -82,6 +82,14 @@ i.icon-blue {
   border: none;
 }
 
+.job-title {
+    padding-left: 10px;
+}
+
+.collapsible-header {
+  padding-top: 10px;
+}
+
 .last-collapsible {
   border: none;
 }
