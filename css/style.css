@@ -9,9 +9,18 @@ body {
 	font-size: inherit;
 }
 
-#logo-img {
+img {
+    transition: 1.2s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+#logo-img img {
   margin-top: 14px;
   width: 100px;
+}
+
+#logo-img:hover {
+  transform: rotate(88deg);
+
 }
 
 .social-logo {
