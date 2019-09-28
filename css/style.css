@@ -20,9 +20,10 @@ img {
     transition: 1.2s cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
-#logo-img img {
+#logo-img {
   margin-top: 14px;
   width: 100px;
+  animation: rotating 10s linear infinite;
 }
 
 #logo-img:hover {
@@ -118,6 +119,16 @@ i.icon-blue {
   position: absolute;
   right: 10px;
 }
+
+@-webkit-keyframes rotating {
+    from{
+        -webkit-transform: rotate(0deg);
+    }
+    to{
+        -webkit-transform: rotate(360deg);
+    }
+}
+
 
 @media (max-width: 425px) { 
   .employer-img {
