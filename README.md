@@ -5,8 +5,7 @@ https://santiagoenciso.com
 
 ### Tools used:
 - [Materilalize](https://materializecss.com/)
-- Github API
-- Treehouse API
-- JavaScript
-
+- JavaScript, jQuery
+- CSS
+- Photoshop, Illustrator
 
