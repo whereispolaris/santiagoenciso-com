@@ -1,6 +1,6 @@
 # santiagoenciso-com
 
-Most updated version of my portolio site:
+Most updated version of my portfolio site:
 https://santiagoenciso.com
 
 ### Tools used:
